@@ -1,0 +1,21 @@
+[
+    {"name":"Don't use dictionary","url":""},
+    {"name":"English - Arabic Dictionary","url":"http://188.166.252.135:5000/dict/en_ar/"},
+    {"name":"English - Chinese Dictionary","url":"http://188.166.252.135:5000/dict/en_cn/"},
+    {"name":"English - Dutch dictionary","url":"http://188.166.252.135:5000/dict/en_du/"},
+    {"name":"English - English Dictionary","url":"http://188.166.252.135:5000/dict/en_en/"},
+    {"name":"English - French Dictionary","url":"http://188.166.252.135:5000/dict/en_fr/"},
+    {"name":"English - German Dictionary","url":"http://188.166.252.135:5000/dict/en_de/"},
+    {"name":"English - Hindi Dictionary","url":"http://188.166.252.135:5000/dict/en_hi/"},
+    {"name":"English - Indonesian Dictionary","url":"http://188.166.252.135:5000/dict/en_id/"},
+    {"name":"English - Italian Dictionary","url":"http://188.166.252.135:5000/dict/en_it/"},
+    {"name":"English - Japanese Dictionary","url":"http://188.166.252.135:5000/dict/en_jp/"},
+    {"name":"English - Korean Dictionary","url":"http://188.166.252.135:5000/dict/en_kr/"},
+    {"name":"English - Polish Dictionary","url":"http://188.166.252.135:5000/dict/en_pl/"},
+    {"name":"English - Portuguese Dictionary","url":"http://188.166.252.135:5000/dict/en_pt/"},
+    {"name":"English - Russian Dictionary","url":"http://188.166.252.135:5000/dict/en_ru/"},
+    {"name":"English - Spanish Dictionary","url":"http://188.166.252.135:5000/dict/en_es/"},
+    {"name":"English - Thai Dictionary","url":"http://188.166.252.135:5000/dict/en_th/"},
+    {"name":"English - Turkish Dictionary","url":"http://188.166.252.135:5000/dict/en_tr/"},
+    {"name":"English - Vietnamese Dictionary","url":"http://188.166.252.135:5000/dict/en_vi/"}
+  ]
