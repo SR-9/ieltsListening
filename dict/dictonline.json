@@ -3,7 +3,7 @@
     {"name":"English - Arabic Dictionary","url":"http://188.166.252.135:5000/dict/en_ar/"},
     {"name":"English - Chinese Dictionary","url":"http://188.166.252.135:5000/dict/en_cn/"},
     {"name":"English - Dutch dictionary","url":"http://188.166.252.135:5000/dict/en_du/"},
-    {"name":"English - English Dictionary","url":"http://188.166.252.135:5000/dict/en_en/"},
+    {"name":"English - English Dictionary","url":"http://188.166.252.135:3000/dict/en_en/"},
     {"name":"English - French Dictionary","url":"http://188.166.252.135:5000/dict/en_fr/"},
     {"name":"English - German Dictionary","url":"http://188.166.252.135:5000/dict/en_de/"},
     {"name":"English - Hindi Dictionary","url":"http://188.166.252.135:5000/dict/en_hi/"},
